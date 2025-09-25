@@ -1,6 +1,6 @@
 # DS--Assignment-
-Done by Adarsh kumar (24155075)
-            Sayonika (24255124)
+Done by Sayonika (24255124)
+    Adarsh kumar (24155075)
             
 #include <stdio.h>
 #include <stdlib.h>
